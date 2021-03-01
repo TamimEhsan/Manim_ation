@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:G:/Manim/FirstProject/media/videos/shapes/480p15/partial_movie_files/Shapes/3163782288_1001466393_2905212399.mp4'
+file 'file:G:/Manim/FirstProject/media/videos/shapes/480p15/partial_movie_files/Shapes/1495979052_2967092849_511123579.mp4'
+file 'file:G:/Manim/FirstProject/media/videos/shapes/480p15/partial_movie_files/Shapes/1495979052_1471350715_937428507.mp4'
+file 'file:G:/Manim/FirstProject/media/videos/shapes/480p15/partial_movie_files/Shapes/1495979052_123398499_3155485205.mp4'
