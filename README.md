@@ -1,6 +1,6 @@
 # Manimation
 
-[Manim](https://github.com/3b1b/manim) os an engine for precise programatic animations, designed for creating explanatory math videos. The original work is done by Grant [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Sanderson. But here I am using the [community edition](https://github.com/ManimCommunity/manim/) . 
+[Manim](https://github.com/3b1b/manim) is an engine for precise programatic animations, designed for creating explanatory math videos. The original work is done by Grant [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Sanderson. But here I am using the [community edition](https://github.com/ManimCommunity/manim/) . 
 
 ### Installation
 
